@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.keycase.app/blog</id>
+    <title>KeyCase Docs Blog</title>
+    <updated>2026-02-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.keycase.app/blog"/>
+    <subtitle>KeyCase Docs Blog</subtitle>
+    <icon>https://docs.keycase.app/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to KeyCase Docs]]></title>
+        <id>https://docs.keycase.app/blog/welcome</id>
+        <link href="https://docs.keycase.app/blog/welcome"/>
+        <updated>2026-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to launch the official KeyCase documentation site!]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to launch the official <strong>KeyCase documentation site</strong>!</p>
+<p>This site is your go-to resource for learning how to use KeyCase — from getting started to advanced administration.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-youll-find-here">What You'll Find Here<a href="https://docs.keycase.app/blog/welcome#what-youll-find-here" class="hash-link" aria-label="Direct link to What You'll Find Here" title="Direct link to What You'll Find Here" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Getting Started</strong> — Sign in, navigate the app, and take the welcome tour.</li>
+<li class=""><strong>Core Concepts</strong> — Understand keywords, flows, agents, and executions.</li>
+<li class=""><strong>User Guides</strong> — Step-by-step instructions for everyday tasks.</li>
+<li class=""><strong>Administration</strong> — Manage users, roles, agents, and organizations.</li>
+<li class=""><strong>Reference</strong> — Glossary and keyboard shortcuts.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="stay-updated">Stay Updated<a href="https://docs.keycase.app/blog/welcome#stay-updated" class="hash-link" aria-label="Direct link to Stay Updated" title="Direct link to Stay Updated" translate="no">​</a></h2>
+<p>We'll be using this blog to share:</p>
+<ul>
+<li class="">Release notes and changelogs</li>
+<li class="">Tips and best practices</li>
+<li class="">Feature announcements</li>
+</ul>
+<p>Bookmark this site and check back regularly for updates.</p>]]></content>
+        <author>
+            <name>KeyCase Team</name>
+            <uri>https://keycase.app</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+    </entry>
+</feed>

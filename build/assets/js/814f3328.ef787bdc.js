@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkeycase_docs=globalThis.webpackChunkkeycase_docs||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to KeyCase Docs","permalink":"/blog/welcome","unlisted":false,"date":"2026-02-22T00:00:00.000Z"}]}')}}]);

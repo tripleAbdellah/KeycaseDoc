@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkeycase_docs=globalThis.webpackChunkkeycase_docs||[]).push([[8121],{8070(e){e.exports=JSON.parse('{"tags":[{"label":"announcement","permalink":"/blog/tags/announcement","count":1}]}')}}]);

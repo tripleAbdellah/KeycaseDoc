@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkeycase_docs=globalThis.webpackChunkkeycase_docs||[]).push([[8947],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"KeyCase Team","title":"Process Automation Platform","url":"https://keycase.app","imageURL":"https://docs.keycase.app/img/logo.svg","key":"keycase-team","page":null,"count":1}]}')}}]);

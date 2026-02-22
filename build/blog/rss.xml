@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KeyCase Docs Blog</title>
+        <link>https://docs.keycase.app/blog</link>
+        <description>KeyCase Docs Blog</description>
+        <lastBuildDate>Sun, 22 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to KeyCase Docs]]></title>
+            <link>https://docs.keycase.app/blog/welcome</link>
+            <guid>https://docs.keycase.app/blog/welcome</guid>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to launch the official KeyCase documentation site!]]></description>
+            <content:encoded><![CDATA[<p>We're excited to launch the official <strong>KeyCase documentation site</strong>!</p>
+<p>This site is your go-to resource for learning how to use KeyCase — from getting started to advanced administration.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-youll-find-here">What You'll Find Here<a href="https://docs.keycase.app/blog/welcome#what-youll-find-here" class="hash-link" aria-label="Direct link to What You'll Find Here" title="Direct link to What You'll Find Here" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Getting Started</strong> — Sign in, navigate the app, and take the welcome tour.</li>
+<li class=""><strong>Core Concepts</strong> — Understand keywords, flows, agents, and executions.</li>
+<li class=""><strong>User Guides</strong> — Step-by-step instructions for everyday tasks.</li>
+<li class=""><strong>Administration</strong> — Manage users, roles, agents, and organizations.</li>
+<li class=""><strong>Reference</strong> — Glossary and keyboard shortcuts.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="stay-updated">Stay Updated<a href="https://docs.keycase.app/blog/welcome#stay-updated" class="hash-link" aria-label="Direct link to Stay Updated" title="Direct link to Stay Updated" translate="no">​</a></h2>
+<p>We'll be using this blog to share:</p>
+<ul>
+<li class="">Release notes and changelogs</li>
+<li class="">Tips and best practices</li>
+<li class="">Feature announcements</li>
+</ul>
+<p>Bookmark this site and check back regularly for updates.</p>]]></content:encoded>
+            <category>announcement</category>
+        </item>
+    </channel>
+</rss>
